@@ -1,8 +1,6 @@
-# dsa-python
-Implementation of Data Structures and Algorithms in Python
+# Data Structures and Algorithms in Python
+This repository contains the implementation of some aata structures and algorithms in Python. 
 
-## Binary Search
-
-## Linked List 
-
-## Stack
+- Binary Search
+- Linked List 
+- Stack
